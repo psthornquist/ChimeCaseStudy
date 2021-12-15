@@ -1,4 +1,5 @@
 # Chime: A Case Study
+
 Author: [Patrick Thornquist]
 
 [![Chime logo](https://swingsearch.com/wp-content/uploads/2019/07/chime-logo-transparent-green.png)](https://www.chime.com)
@@ -25,13 +26,15 @@ Chime's intended customer is lower or middle class and might not have current ac
 
 They also seem to be more popular with younger customers such as those who have just recently graduated from university and might not have traditional banking accounts already. In 2018, [they acquired Pinch], a company that makes it easier for customers to raise their credit score just by paying their rent. Typically, younger consumers may not own a home yet and also are in the starting stages of building up their credit score for use later in life. This acquisition seems to be trying to bolster Chime's reputation with Millenials, who at the time of the acquisition made up 90% of Chime's userbase. This is an exciting usergroup statistic considering that Millenials make up around 30% of the American population and have a combined spending power of $1.4T in 2020. 
 
-Chime currently uses many different technologies to create their final product. According to StackShare, Chimes uses a variety of tools including:
+Chime currently uses many different technologies to create their final product. According to [StackShare], Chimes uses a variety of tools including:
+
  - 17 applications
  - 6 utilities
  - 17 DevOps
  - 3 Business Tools. 
 
 They are also gaining an advantage over traditional banking providers by using AI to improve their design and marketing potential. They are focused on using AI to help predict what types of messaging will catch their target consumer's attention.
+
 As [Guy Yalif] writes on the [The Financial Brand][df1]
 
 > Chime’s predictive personalization platform
@@ -82,6 +85,7 @@ My final recommendation would be to offer a charity or giving option. Millenials
 ### Sources
 
 [Image 1](https://swingsearch.com/chime-logo-transparent-green/)
+
 [Image 2](https://www.retailcustomerexperience.com/blogs/why-its-time-for-brands-to-prioritize-the-happiness-of-millennial-shoppers/)
 
 https://www.bis.org/publ/bppdf/bispap117.pdf
@@ -97,3 +101,4 @@ https://www.bis.org/publ/bppdf/bispap117.pdf
    [research]: <https://www.responsiblelending.org/media/new-overdraft-report-urges-congress-regulators-banks-halt-burdensome-bank-fees-threaten>
    [previously said]: <https://www.cnn.com/2020/10/05/business/chime-bank-startup/index.html>
    [spent $32 million]: <https://www.forbes.com/sites/ronshevlin/2020/11/16/how-14-billion-chime-is-dominating-digital-banking-and-all-of-banking/?sh=4287412c2210>
+   [StackShare]: <https://stackshare.io/chime/chime>
